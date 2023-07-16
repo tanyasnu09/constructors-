@@ -1,0 +1,16 @@
+
+public class Helo {
+    Helo(String a, String b){
+        System.out.println("My name is " + a + " and I live in " + b);
+    }
+
+}
+
+
+public class Main {
+
+{
+    public static void main (String[] args){
+        Helo h= new Helo( "tanya", "Patna");
+    }
+}
