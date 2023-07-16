@@ -1,0 +1,14 @@
+public class Helo
+{
+    Helo()
+    {
+        System.out.println("hello");
+    }
+}
+public class Main
+{
+    public static void main(String[] args) {
+
+        Helo h= new Helo();
+    }
+}
